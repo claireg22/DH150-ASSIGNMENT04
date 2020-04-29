@@ -4,10 +4,10 @@
 ### Step 1: Specify the main design challenge 
 
 #### What is the main activity your project would support the users?
-   My project (redesigning Amazon) will support users in shopping for necessary items easily without frustration or errors. Users will hopefully have quick and delightful online shopping experiences from the comfort of their own homes.
+   My project (redesigning Amazon) will support users in shopping for items they need or want easily without frustration or errors. Users will hopefully have quick and delightful online shopping experiences from the comfort of their own homes.
 
 #### What is the basic need involved for that activity? 
-   This activity fulfills human's physiological needs because users need to be able to have quick and easy access to necessary items like clothes, essentials, or food in order to properly survive. In this activity, gaining access to these items is through purchasing them.
+   This activity fulfills human's physiological needs because users need to be able to have quick and easy access to items they need or want like clothes, essentials, or food in order to properly survive. In this activity, gaining access to these items is through purchasing them.
 
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
    Current solutions to satisfy these needs include leaving the house and driving to local grocery or department stores, searching for items through store ails, and having to transport all of the purchased items back to the house. 
@@ -26,10 +26,10 @@
    Expertise: Users do not need a particular level of expertise to use this site.
 
 #### Where would the users do that activity? (i.e., context of use)
-   The users would purchase items online in the comfort of their own homes or any location they realize they need something. Since it takes extra effort to go to stores that sell the items they are looking for, users most likely will purchase items online for a quicker shopping experience. Users can also successfully complete the activity, shopping for necessary items easily without frustration or errors, by going to stores that are familiar (know where the necessary items are) and close by.
+   The users would purchase items online in the comfort of their own homes or any location they realize they need something. Since it takes extra effort to go to stores that sell the items they are looking for, users most likely will purchase items online for a quicker shopping experience. Users can also successfully complete the activity, shopping for items they want or need easily without frustration or errors, by going to stores that are familiar (know where the items are) and close by.
 
 #### What would the users do to complete that activity? (e.g., goal, operation, method, action)
-   In order to shop for necessary items easily without frustration or errors, users will identify and find the specific item they need, add it to their cart, check out using payment method, and have the item transported back to their house.
+   In order to shop for items they want or need easily without frustration or errors, users will identify and find the specific item they need, add it to their cart, check out using payment method, and have the item transported back to their house.
 
 
 ### Step 3: Pick research methods 
