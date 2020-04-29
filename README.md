@@ -43,13 +43,17 @@ Please find my interview script including introductions, contextual questions, a
 https://docs.google.com/document/d/1BJl-4CpAN9Oev309zVebTBBo6ClAER6AnYJ1zC0bBQA/edit?usp=sharing
 
 ### 2. User Data
-The recording for the interview:
-The transcript for the interview:
+The recording for the interview: https://youtu.be/kwHzOWf_ApE
+The transcript for the interview: https://docs.google.com/document/d/11ajHQusLEXYGB7lV6aG2ctQ2Ui0V_DMJGXjImIhy5p4/edit?usp=sharing
 
 ### Interesting quotes and findings:
-
+#### 1. The user prefers to buy certain items online vs. in person
+   The user emphasizes that there are certain items they would never buy online (like eggs or vegetables) and also describes her preference of buying books online, even if she sees them in store in person.
+#### 2. The user enjoys the experience of in-person shopping more than online shopping
+   The user enjoys "window-shopping" and looking at things she probably will not buy. Doing this does not make the task of purchasing items she needs or wants faster, but it enhances her experience.
 
 ## Reflection
+I really enjoyed conducting the contexual activity because it allowed me to observe my user in her work environment. Since the activity was flexible and personable to the user, it felt like a more real and genuine experience. I found an interesting disctinction between online and in-person shopping and found that my user enjoyed the in-person shopping experience, even though it took more time. This showed that sometimes users are not looking for the quickest, most efficient method to finding items they want or need, they also want to enjoy the adventure of finding and purchasing their items. In addition, This activity also really challenged me to be a good moderator. When the participant asked me questions or clarifications it was tempting to answer them or to reask questions that I was not satisfied with the answers to. However, it was a great experience and I look forward to continuing to have discussions with my users in their own work environments.In the future I hope to interview a particpant who is unfamiliar with the website and does not have an AmazonPrime account in order to see their challenges navigating through the website. I believe this will give me a better understanding of significant design issues and a better direction at where my design improvements should be made.
 
 
 
