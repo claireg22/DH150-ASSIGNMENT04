@@ -2,6 +2,7 @@
 
 ## Description of Project
 ### Step 1: Specify the main design challenge 
+
 #### What is the main activity your project would support the users?
    My project (redesigning Amazon) will support users in shopping for necessary items easily without frustration or errors. Users will hopefully have quick and delightful online shopping experiences from the comfort of their own homes.
 
@@ -16,6 +17,7 @@
 
 
 ### Step 2: Target users 
+
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
    Demographic: people with a source of income (have own form of payment they can use online), live in countries where Amazon ships to, own a place of residency
    Preference: people who do not have the time or resources to leave the house need to be able to purchase necessities. 
@@ -29,6 +31,7 @@
 
 
 ### Step 3: Pick research methods 
+
    The research method I employed was participatory observation. 
 
 
