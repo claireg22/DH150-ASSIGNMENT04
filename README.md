@@ -20,7 +20,9 @@
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise) 
    Demographic: people with a source of income (have own form of payment they can use online), live in countries where Amazon ships to, own a place of residency
+   
    Preference: people who do not have the time or resources to leave the house need to be able to purchase necessities. 
+   
    Expertise: Users do not need a particular level of expertise to use this site.
 
 #### Where would the users do that activity? (i.e., context of use)
