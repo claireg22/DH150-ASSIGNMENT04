@@ -35,6 +35,21 @@
 ### Step 3: Pick research methods 
 
    The research method I employed was participatory observation. 
+   
+ 
+## Participatory Research
+### 1.Contextual Inquiry Guide
+Please find my interview script including introductions, contextual questions, and user activity questions: 
+https://docs.google.com/document/d/1BJl-4CpAN9Oev309zVebTBBo6ClAER6AnYJ1zC0bBQA/edit?usp=sharing
+
+### 2. User Data
+The recording for the interview:
+The transcript for the interview:
+
+### Interesting quotes and findings:
+
+
+## Reflection
 
 
 
